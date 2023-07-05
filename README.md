@@ -37,6 +37,7 @@ S0 = 100 # Present price
 
 ## Errata
 
+* Page 160 (Chapter 6): **Balanced Accuracy, or ROC-AUC score** _should be_ **Balanced Accuracy, and ROC-AUC score** 
 * Page 161 (Chapter 6): **AUC** being equivalent to **Balanced Accuracy** is a simplification over binary outcome which is not the case when using probabilistic outcome (```.predict_proba()```) for classification.
 
 **Following is what you need for this book:**
