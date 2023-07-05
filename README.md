@@ -35,6 +35,10 @@ sigma = 0.25 # Volatility (stdev)
 S0 = 100 # Present price
 ```
 
+## Errata
+
+* Page 161 (Chapter 6): **AUC** being equivalent to **Balanced Accuracy** is a simplification over binary outcome which is not the case when using probabilistic outcome (```.predict_proba()```) for classification.
+
 **Following is what you need for this book:**
 This book is for financial practitioners, quantitative analysts, or developers; looking to bring the power of quantum computing to their organizations. This is an essential resource written for finance professionals, who want to harness the power of quantum computers for solving real-world financial problems. A basic understanding of Python, calculus, linear algebra, and quantum computing is a prerequisite.
 
