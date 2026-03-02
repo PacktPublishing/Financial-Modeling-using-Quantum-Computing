@@ -1,7 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # Financial Modeling using Quantum Computing
 
 <a href="https://www.amazon.com/Financial-Modeling-using-Quantum-Computing/dp/180461842X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781801810135"><img src="https://m.media-amazon.com/images/I/51FpwkcMPxL.jpg" alt="Financial Modeling using Quantum Computing" height="256px" align="right"></a>
